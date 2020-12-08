@@ -1,4 +1,7 @@
 # SPECIAL TOPICS IN COMPUTER ENGINEERING II
+- วิชา CN409 ประจำภาคการศึกษาที่ 1/2563 เป็นวิชาที่เรียนเกี่ยวกับการสร้างงาน 3D ต่างๆโดยใช้โปรแกรม Blender ผู้สอนประจำวิชา: ดร.ชุมพล บุญมี ไฟล์งานตัวอย่างต่างๆจัดทำโดย: นางสาวณัฐธิดา ปัญญา 6010613385
+## About Blender
+- โปรแกรม Blender เป็นโปรแกรม Open Source สำหรับสร้างโมเดล 3 มิติ เรนเดอร์และทำแอนิเมชัน เป็นโปรแกรมที่มีขนาดไฟล์ที่เล็ก สามารถทำงานได้บนระบบปฏิบัติการหลายรูปแบบ มีความสามารถในการทำคาแรคเตอร์และโมเดลได้เทียบเท่ากับโปรแกรม 3 มิติระดับสูง
 ## Video
 - [CLIP1: เรียนรู้พื้นฐานการใช้โปรแกรม Blender](https://youtu.be/WnnQ7SYHiA8)
 - [CLIP3: การเริ่มต้นสร้าง Model 3D](https://youtu.be/CbOKHIkNPuw)
@@ -11,3 +14,4 @@
 - [Jayanam](https://www.youtube.com/user/jayanamgames)
 - [blenderBinge](https://www.youtube.com/c/blenderBinge)
 - [SouthernShotty](https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg)
+- [Blender Made Easy](https://www.youtube.com/channel/UCaS7BQniaSNfBZDYiLimKxQ)
