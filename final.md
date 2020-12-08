@@ -1,3 +1,7 @@
+layout: page
+title: "Final Project"
+permalink: /final
+
 # My Final Project
 - งานไฟนอลโปรเจคประจำวิชา CN409 ประจำปีการศึกษา 1/2563 เป็นการนำความรู้จากเนื้อหาที่เรียนทั้งหมดมาประยุกต์ใช้ในการทำ 3D Animation
 ## THE LAST OF CREWMATE
