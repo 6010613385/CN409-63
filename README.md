@@ -12,6 +12,7 @@
 - [CLIP6: Storyboard ของงาน Final Project Animation](https://youtu.be/4hNQ9V_kwgE)
 - [CLIP7: การสร้าง Model ตัวละครในงาน Final Project Animation](https://youtu.be/pWXhrmAEl2E)
 - [CLIP8: ความคืบหน้าของงาน Final Project Animation](https://youtu.be/dBWmVhbThJc)
+- [CLIP9: งาน 3D Animation Final project](https://youtu.be/rqpLiCDjiyo)
 ## Some Useful Blender Tutorials
 - [Jayanam](https://www.youtube.com/user/jayanamgames)
 - [blenderBinge](https://www.youtube.com/c/blenderBinge)
